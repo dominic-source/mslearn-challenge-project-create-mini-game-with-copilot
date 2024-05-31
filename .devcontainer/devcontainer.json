@@ -12,7 +12,9 @@
 	"customizations": {
 		// Configure properties specific to VS Code.
 		"vscode": {
-			"settings": {},
+			"settings": {
+				"git.autorefresh": true
+			},
 			"extensions": [
 				"streetsidesoftware.code-spell-checker",
 				"ms-python.python",
